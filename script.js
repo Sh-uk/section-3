@@ -4,7 +4,7 @@ const form = document.getElementById('form')
 	
 	const todos = JSON.parse(localStorage.getItem('todos'))
 	
-	if(todos) {
+	if(todos) {.........
 	todos.forEach(todo => addTodo(todo))
 	}
 	
