@@ -1,1 +1,4 @@
-style.css
+style
+script.js
+index.html
+
